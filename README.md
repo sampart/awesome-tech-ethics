@@ -53,8 +53,8 @@ Reducing the potential negative effects of technology on society.
 ## Company-specific
 
 - [Amazon Employees for Climate Justice](https://www.amazonclimatejustice.org) - Amazon employees applying pressure on Amazon to redefine what it means to be a responsible company in the era of the climate crisis.
-- [No GCP for CBP](https://medium.com/@no.gcp.for.cbp) - Googlers protesting the use of Google technology in supporting US Customs and Border Protection (CBP)'s human rights abuses at the US Southern border.
 - [No Tech For Apartheid](https://www.notechforapartheid.com) - a worker-led campaign of Google and Amazon workers organizing against the companies' $1B Project Nimbus cloud computing contract with the Israeli government and military (see also [No Azure for Apartheid](https://noazureforapartheid.com)).
+- [No Tech for ICE](https://notechforice.com) - fighting against the tech corporations fueling ICE disappearances, raids and the growing surveillance state.
 
 ## See also
 
