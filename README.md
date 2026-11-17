@@ -47,7 +47,7 @@ Reducing the potential negative effects of technology on society.
 - [All Tech Is Human](https://alltechishuman.org/) - Bringing together people, organizations, and ideas to tackle wicked tech & society issues and co-create a tech future aligned with the public interest.
 - [Center for Humane Technology](https://www.humanetech.com/) - Envisioning a world with technology that respects our attention, improves our well-being, and strengthens communities.
 - [The Design Justice Network](https://designjustice.org/) - A home for people who are committed to embodying and practicing the [Design Justice Network Principles](https://designjustice.org/principles).
-- [The Distributed AI Research Institute](https://www.dair-institute.org/) - The Distributed AI Research Institute is a space for independent, community-rooted AI research, free from Big Tech's pervasive influence.
+- [The Distributed AI Research Institute](https://www.dair-institute.org/) - A space for independent, community-rooted AI research, free from Big Tech's pervasive influence.
 - [Foxglove](https://www.foxglove.org.uk) - We stand up to tech giants and governments and for a future where technology is used to benefit everyone, not just the rich and powerful.
 - [The Minderoo Centre for Technology and Democracy](https://www.mctd.ac.uk) - An independent team of researchers at the University of Cambridge who are radically rethinking the power relationships between digital technologies, society, and our planet.
 - [Omidyar Network: Responsible Technology](http://omidyar.com/responsible-technology-2/) - Social change venture that reimagines critical systems, and the ideas that govern them, to build more inclusive and equitable societies. Responsible technology is one of its three key focus areas.
@@ -57,8 +57,8 @@ Reducing the potential negative effects of technology on society.
 ## Company-specific
 
 - [Amazon Employees for Climate Justice](https://www.amazonclimatejustice.org) - Amazon employees applying pressure on Amazon to redefine what it means to be a responsible company in the era of the climate crisis.
-- [No Tech For Apartheid](https://www.notechforapartheid.com) - a worker-led campaign of Google and Amazon workers organizing against the companies' $1B Project Nimbus cloud computing contract with the Israeli government and military (see also [No Azure for Apartheid](https://noazureforapartheid.com)).
-- [No Tech for ICE](https://notechforice.com) - fighting against the tech corporations fueling ICE disappearances, raids and the growing surveillance state.
+- [No Tech For Apartheid](https://www.notechforapartheid.com) - A worker-led campaign of Google and Amazon workers organizing against the companies' $1B Project Nimbus cloud computing contract with the Israeli government and military (see also [No Azure for Apartheid](https://noazureforapartheid.com)).
+- [No Tech for ICE](https://notechforice.com) - Fighting against the tech corporations fueling ICE disappearances, raids and the growing surveillance state.
 
 ## See also
 
@@ -67,6 +67,6 @@ Reducing the potential negative effects of technology on society.
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
 - [Awesome Permacomputing](https://github.com/idematos/awesome-permacomputing)
 - [Awesome tech for good](https://github.com/TechforgoodCAST/awesome-techforgood)
-- [Deceptive Patterns](https://www.deceptive.design) - cataloging and exposing tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.
+- [Deceptive Patterns](https://www.deceptive.design) - Cataloging and exposing tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.
 - The ["Digital Rights & Ethics" section of the Green Web Syllabus](https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection)
 - [Organize.fyi](https://organize.fyi/)
